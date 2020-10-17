@@ -1,0 +1,60 @@
+[
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Dry Martini",
+        "ingredients": [
+            "Gin",
+            "Dry Vermouth",
+            "Olives"
+        ]
+    },
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Manhattan",
+        "ingredients": [
+            "Whiskey",
+            "Red Vermouth",
+            "Angostura Bitters"
+        ]
+    },
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Cuba libre",
+        "ingredients": [
+            "Rum",
+            "Cola",
+            "Lime"
+        ]
+    },
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Last word",
+        "ingredients": [
+            "Gin",
+            "Chartreuse",
+            "Maraschino Liquer",
+            "Lime"
+        ]
+    },
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Mary Pickford",
+        "ingredients": [
+            "Rum",
+            "Pineapple Juice",
+            "Grenadine",
+            "Maraschino Liquer"
+        ]
+    },
+    {
+        "category": "IBA_OFFICIALS",
+        "name": "Rusty Nail",
+        "ingredients": [
+            "Whiskey",
+            "Drambuie",
+            "Grey Goose",
+            "Gerwrwe",
+            "Gasdasd"
+        ]
+    }
+]
